@@ -7,7 +7,8 @@
 
 <p align="left">
 <a href="https://github.com/ginarachimakesoemaputri">
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ginarachimakesoemaputri&layout=compact&langs_count=8&theme=nord"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ginarachimakesoemaputri&layout=compact&langs_count=8&theme=nord"/>
+  |
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ginarachimakesoemaputri&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 </a>
 </p>
