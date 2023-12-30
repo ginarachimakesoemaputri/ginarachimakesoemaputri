@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Gina Rachima Kesoema Putri
 - 👀 I’m interested in Mobile Development and Web Development
 - 🌱 I’m currently learning Android Development in Bangkit Academy
-- 📫 You can reach me at www.linkedin.com/in/ginarachimakesoemaputri
+- 📫 You can reach me at <a href="www.linkedin.com/in/ginarachimakesoemaputri" target="_blank">LinkedIn</a>
 
 ---
 
 <p align="left">
 <a href="https://github.com/ginarachimakesoemaputri">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ginarachimakesoemaputri&layout=compact&langs_count=8&theme=nord"/>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ginarachimakesoemaputri&layout=compact&langs_count=8&theme=nord"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ginarachimakesoemaputri&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 </a>
 </p>
